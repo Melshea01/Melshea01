@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Mel ! 
 
-🎯 I'm a fullstack engineer based in Lyon, France.
-🧠 Always learning and experimenting through small, creative side projects.
-✨ I love building things that spark curiosity and help me grow as a developer.
+🎯 I'm a fullstack engineer based in Lyon, France. <br/>
+🧠 Always learning and experimenting through small, creative side projects. <br/>
+✨ I love building things that spark curiosity and help me grow as a developer. <br/>
 
 🚀 Feel free to explore my repos and see what I'm up to!
 
